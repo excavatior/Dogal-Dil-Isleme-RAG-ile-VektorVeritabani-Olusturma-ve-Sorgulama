@@ -1,0 +1,6 @@
+embedding nedir?
+RAG yaklaşımı neyi amaçlar?
+Chroma nedir ve ne işe yarar?
+What is an embedding?
+How does RAG reduce hallucinations?
+What is a vector database?

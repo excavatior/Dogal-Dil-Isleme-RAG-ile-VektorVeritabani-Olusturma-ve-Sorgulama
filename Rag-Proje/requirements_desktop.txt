@@ -1,0 +1,7 @@
+PySide6
+sentence-transformers
+chromadb
+transformers
+accelerate
+openai
+torch

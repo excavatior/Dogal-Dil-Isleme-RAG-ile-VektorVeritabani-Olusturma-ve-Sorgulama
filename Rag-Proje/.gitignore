@@ -1,0 +1,28 @@
+# Sanal ortam
+.venv/
+env/
+venv/
+
+# Derleme klasörleri
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Veritabanı ve cache
+chroma_db/
+*.sqlite
+
+# Build ve dağıtım dosyaları
+build/
+dist/
+*.spec
+
+# Çıktılar
+*.log
+*.csv
+*.tmp

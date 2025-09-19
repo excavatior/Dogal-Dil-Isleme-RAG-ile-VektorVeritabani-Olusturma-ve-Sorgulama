@@ -1,0 +1,20 @@
+Aşağıdaki kullanıcı sorusunu, verilen bağlamdan yararlanarak ve bağlam dışına çıkmadan yanıtla.
+Gerekirse maddeler kullan. Yanıtın sonunda kullandığın kaynakları [Kaynak: path, Parça: i] biçiminde referansla.
+
+Soru:
+vector database nedir?
+
+Bağlam:
+[Kaynak: C:\Users\Halil Turan\rag-proje\data\example_en.md, Parça: 1]
+ry --q "vector database nedir?" --k 5
+```
+
+## Notlar
+- Kalıcılık klasörü: `.chroma/` (env ile değiştirilebilir)
+- Koleksiyon adı: `staj_docs`
+- Metadata tutulan alanlar: `source`, `title`, `mime`, `chunk_id`, `doc_id`
+
+Yanıt talimatları:
+- Bağlam dışına çıkma, uydurma yapma.
+- Kısa ve net ol.
+- Cevabın sonunda referansları listele.

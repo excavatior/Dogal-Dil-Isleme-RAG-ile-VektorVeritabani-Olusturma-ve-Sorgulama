@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.csv
+*.db
+chroma_db/
+*.png
+*.jpg
+*.jpeg
+*.pdf
