@@ -79,8 +79,11 @@ python rag_desktop_app.py
 ---
 
 ## 🖼 Uygulama İçi Görseller
+<img width="1245" height="936" alt="Foto1" src="https://github.com/user-attachments/assets/90be1886-aa6a-49ac-a35e-a18fe161ac5e" />
 
- 
+ <img width="1246" height="927" alt="Foto2" src="https://github.com/user-attachments/assets/b33d9ffd-6220-4853-a0c0-4a7176148792" />
+
+<img width="1245" height="922" alt="Foto3" src="https://github.com/user-attachments/assets/beb6b389-44cd-454c-b391-292dc32242d1" />
 
 ---
 
