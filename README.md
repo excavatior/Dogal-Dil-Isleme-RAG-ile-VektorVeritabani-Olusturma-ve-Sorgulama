@@ -48,7 +48,7 @@ rag-proje/
 
 ### 1. Depoyu Klonla
 ```bash
-git clone https://github.com/<kullanıcı_adı>/<repo_adı>.git
+git clone (https://github.com/excavatior/Dogal-Dil-Isleme-RAG-ile-VektorVeritabani-Olusturma-ve-Sorgulama/tree/main)
 cd rag-proje
 ```
 
